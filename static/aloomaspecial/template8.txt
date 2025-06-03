@@ -1,0 +1,38 @@
+    <br><br><br><br>
+    <!-- contact template 8 just 1 subtopic -->
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma">aloomaidheader</h2>
+                <p class="template4 palooma">aloomaidparagraph
+                </p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions in #State</h2>
+                <h4 class="template4 palooma">Do you deliver dumpsters to remote areas?
+                </h4>
+                <p>Yes, we do! We can deliver dumpsters to remote areas as long as our large delivery trucks can access the location. If you're unsure about how accessible your area is for heavy-duty trucks, give us a call. We'll help assess the accessibility and discuss alternative delivery options if needed.</p>
+                <h4 class="template4 palooma">Do you accept refrigerators?
+                </h4>
+                <p>No, we do not accept refrigerators, as they contain Freon or other refrigerants that can be hazardous to haulers and landfill workers.</p>
+                <h4 class="template4 palooma">Can I extend the rental period?
+                </h4>
+                <p>Yes, you can! We just ask that you let us know at least two days in advance so we can arrange a flexible plan that works best for you.</p>
+                <h4 class="template4 palooma">Can I rent a dumpster for a year or more?
+                </h4>
+                <p>Yes, we offer contractual dumpster rentals ranging from 1 to 3 years. This involves signing a formal contract with us. We’ll handle regular waste disposal, often done at most twice a week, and we clean the dumpster after each emptying to keep things tidy.</p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
